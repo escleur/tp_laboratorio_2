@@ -1,0 +1,13 @@
+D:\utn\Cuatrimestre 2\Programacion 2\git\tp_laboratorio_2\Tp1\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+D:\utn\Cuatrimestre 2\Programacion 2\git\tp_laboratorio_2\Tp1\MiCalculadora\bin\Debug\MiCalculadora.exe
+D:\utn\Cuatrimestre 2\Programacion 2\git\tp_laboratorio_2\Tp1\MiCalculadora\bin\Debug\MiCalculadora.pdb
+D:\utn\Cuatrimestre 2\Programacion 2\git\tp_laboratorio_2\Tp1\MiCalculadora\obj\Debug\MiCalculadora.csprojAssemblyReference.cache
+D:\utn\Cuatrimestre 2\Programacion 2\git\tp_laboratorio_2\Tp1\MiCalculadora\obj\Debug\MiCalculadora.FormCalculadora.resources
+D:\utn\Cuatrimestre 2\Programacion 2\git\tp_laboratorio_2\Tp1\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+D:\utn\Cuatrimestre 2\Programacion 2\git\tp_laboratorio_2\Tp1\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+D:\utn\Cuatrimestre 2\Programacion 2\git\tp_laboratorio_2\Tp1\MiCalculadora\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+D:\utn\Cuatrimestre 2\Programacion 2\git\tp_laboratorio_2\Tp1\MiCalculadora\obj\Debug\MiCalculadora.exe
+D:\utn\Cuatrimestre 2\Programacion 2\git\tp_laboratorio_2\Tp1\MiCalculadora\obj\Debug\MiCalculadora.pdb
+D:\utn\Cuatrimestre 2\Programacion 2\git\tp_laboratorio_2\Tp1\MiCalculadora\bin\Debug\Entidades.dll
+D:\utn\Cuatrimestre 2\Programacion 2\git\tp_laboratorio_2\Tp1\MiCalculadora\bin\Debug\Entidades.pdb
+D:\utn\Cuatrimestre 2\Programacion 2\git\tp_laboratorio_2\Tp1\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete
