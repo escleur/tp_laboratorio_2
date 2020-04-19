@@ -10,8 +10,19 @@ namespace Entidades
     {
         private double numero;
 
-        public string SetNumero { set { numero = ValidarNumero(value); } }
+        public string SetNumero
+        {
+            set
+            {
+                numero = ValidarNumero(value);
+            }
+        }
 
+        /// <summary>
+        /// Parsea un string que contiene un numero binario a decimal
+        /// </summary>
+        /// <param name="binario">String con la cadena correspondiente a un numero binario</param>
+        /// <returns>retorna un numero decimal en formato string o el menaje "No binario" si no es un numero binario </returns>
         public string BinarioDecimal(string binario)
         {
             double dec = 0;
@@ -64,6 +75,11 @@ namespace Entidades
 
         }
 
+        /// <summary>
+        /// Convierte un numero double a una cadena con el numero binario correspondiente 
+        /// </summary>
+        /// <param name="binario">Double correspondiente a un numero decimal</param>
+        /// <returns>retorna un numero binario en formato string </returns>
         public string DecimalBinario(double numero)
         {
             int signo = (numero >= 0) ? 1 : -1;
@@ -99,6 +115,11 @@ namespace Entidades
             return binario;
         }
 
+        /// <summary>
+        /// Parsea un numero en string a una cadena con el numero binario correspondiente 
+        /// </summary>
+        /// <param name="binario">String correspondiente a un numero decimal</param>
+        /// <returns>retorna un numero binario en formato string </returns>
         public string DecimalBinario(string numero)
         {
             double salida;
@@ -109,31 +130,60 @@ namespace Entidades
             return DecimalBinario(salida);
         }
 
+        /// <summary>
+        /// Constructor de numero
+        /// </summary>
         public Numero()
         {
             numero = 0.0;
         }
 
+        /// <summary>
+        /// Constructor de numero
+        /// </summary>
+        /// <param name="numero">Valor del atributo numero</param>
         public Numero(double numero)
         {
             this.numero = numero;
         }
 
+        /// <summary>
+        /// Constructor de numero
+        /// </summary>
+        /// <param name="strNumero">Valor del numero en string</param>
         public Numero(string strNumero)
         {
             SetNumero = strNumero;
         }
 
+        /// <summary>
+        /// Realiza una resta entre dos clases numero
+        /// </summary>
+        /// <param name="n1">Valor del primer numero</param>
+        /// <param name="n2">Valor del segundo numero</param>
+        /// <returns>Retorna un double con el valor de la resta</returns>
         public static double operator -(Numero n1, Numero n2)
         {
             return n1.numero - n2.numero;
         }
 
+        /// <summary>
+        /// Realiza una multiplicacion entre dos clases numero
+        /// </summary>
+        /// <param name="n1">Valor del primer numero</param>
+        /// <param name="n2">Valor del segundo numero</param>
+        /// <returns>Retorna un double con el valor de la multiplicacion</returns>
         public static double operator *(Numero n1, Numero n2)
         {
             return n1.numero * n2.numero;
         }
 
+        /// <summary>
+        /// Realiza una divicion entre dos clases numero
+        /// </summary>
+        /// <param name="n1">Valor del primer numero</param>
+        /// <param name="n2">Valor del segundo numero</param>
+        /// <returns>Retorna un double con el valor de la divicion, si n2 == 0 retorna double.MinValue</returns>
         public static double operator /(Numero n1, Numero n2)
         {
             double salida;
@@ -144,12 +194,22 @@ namespace Entidades
             return salida;
         }
 
+        /// <summary>
+        /// Realiza una suma entre dos clases numero
+        /// </summary>
+        /// <param name="n1">Valor del primer numero</param>
+        /// <param name="n2">Valor del segundo numero</param>
+        /// <returns>Retorna un double con el valor de la suma</returns>
         public static double operator +(Numero n1, Numero n2)
         {
             return n1.numero + n2.numero;
         }
 
-
+        /// <summary>
+        /// Parsea el string a double
+        /// </summary>
+        /// <param name="strNumero">string del numero a parsear</param>
+        /// <returns>si no se puede parsear devuelve 0</returns>
         private double ValidarNumero(string strNumero)
         {
             double salida;
