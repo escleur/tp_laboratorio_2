@@ -23,6 +23,12 @@ namespace Entidades
         string chasis;
         ConsoleColor color;
 
+        /// <summary>
+        /// Constructor de vehiculo
+        /// </summary>
+        /// <param name="chasis">string con el chasis</param>
+        /// <param name="marca">EMarca de la marca</param>
+        /// <param name="color">ConsoleColor con el color</param>
         public Vehiculo(string chasis, Vehiculo.EMarca marca, ConsoleColor color)
         {
             this.marca = marca;
@@ -33,7 +39,7 @@ namespace Entidades
         /// <summary>
         /// ReadOnly: Retornará el tamaño
         /// </summary>
-        protected abstract ETamanio Tamanio { get; }  //no se
+        protected abstract ETamanio Tamanio { get; }  
 
         /// <summary>
         /// Publica todos los datos del Vehiculo.
@@ -43,7 +49,11 @@ namespace Entidades
         { 
             return (string)this;
         }
-
+        
+        /// <summary>
+        /// Operador explicito a string
+        /// </summary>
+        /// <param name="p">Vehiculo a convertir</param>
         public static explicit operator string(Vehiculo p)
         {
             StringBuilder sb = new StringBuilder();

@@ -19,10 +19,17 @@ namespace Entidades
         }
 
         #region "Constructores"
+        /// <summary>
+        /// instancia la lista de vehiculos
+        /// </summary>
         private Estacionamiento()
         {
             this.vehiculos = new List<Vehiculo>();
         }
+        /// <summary>
+        /// Constructor de estacionamiento
+        /// </summary>
+        /// <param name="espacioDisponible"></param>
         public Estacionamiento(int espacioDisponible):this()
         {
             this.espacioDisponible = espacioDisponible;
@@ -34,7 +41,7 @@ namespace Entidades
         /// Muestro el estacionamiento y TODOS los vehículos
         /// </summary>
         /// <returns></returns>
-        public string ToString()
+        public override string ToString()
         {
             return Estacionamiento.Mostrar(this, ETipo.Todos);//puede ser estatico
         }
@@ -116,9 +123,6 @@ namespace Entidades
         /// <returns></returns>
         public static Estacionamiento operator -(Estacionamiento c, Vehiculo p)
         {
-            //            foreach (Vehiculo v in c.vehiculos)//revisar
-            //            {
-            //      
             for(int i = 0; i < c.vehiculos.Count(); i++)
             {
                 if (c.vehiculos[i] == p)

@@ -8,6 +8,12 @@ namespace Entidades
 {
     public class Moto : Vehiculo
     {
+        /// <summary>
+        /// Constructor de moto
+        /// </summary>
+        /// <param name="marca"></param>
+        /// <param name="chasis"></param>
+        /// <param name="color"></param>
         public Moto(EMarca marca, string chasis, ConsoleColor color)
             : base(chasis, marca, color)
         {
@@ -24,6 +30,10 @@ namespace Entidades
             }
         }
 
+        /// <summary>
+        /// retorna un string con la informacion de la moto
+        /// </summary>
+        /// <returns></returns>
         public override sealed string Mostrar()
         {
             StringBuilder sb = new StringBuilder();

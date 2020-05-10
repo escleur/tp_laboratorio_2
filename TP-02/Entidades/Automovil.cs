@@ -25,6 +25,13 @@ namespace Entidades
             this.tipo = ETipo.Monovolumen;
         }
 
+        /// <summary>
+        /// Constructor de automovil
+        /// </summary>
+        /// <param name="marca"></param>
+        /// <param name="chasis"></param>
+        /// <param name="color"></param>
+        /// <param name="tipo"></param>
         public Automovil(EMarca marca, string chasis, ConsoleColor color, ETipo tipo)
             : this(marca, chasis, color)
         {
@@ -42,6 +49,10 @@ namespace Entidades
             }
         }
 
+        /// <summary>
+        /// retorna un string con los datos del automovil
+        /// </summary>
+        /// <returns></returns>
         public override sealed string Mostrar()
         {
             StringBuilder sb = new StringBuilder();
