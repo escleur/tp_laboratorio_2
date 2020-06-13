@@ -1,0 +1,16 @@
+D:\utn\Cuatrimestre 2\Programacion 2\git\tp_laboratorio_2\Sanjurjo.Gabriel.Alejandro.2c.TP3\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+D:\utn\Cuatrimestre 2\Programacion 2\git\tp_laboratorio_2\Sanjurjo.Gabriel.Alejandro.2c.TP3\ConsoleApp\bin\Debug\ConsoleApp.exe
+D:\utn\Cuatrimestre 2\Programacion 2\git\tp_laboratorio_2\Sanjurjo.Gabriel.Alejandro.2c.TP3\ConsoleApp\bin\Debug\ConsoleApp.pdb
+D:\utn\Cuatrimestre 2\Programacion 2\git\tp_laboratorio_2\Sanjurjo.Gabriel.Alejandro.2c.TP3\ConsoleApp\bin\Debug\ClassLibrary1.dll
+D:\utn\Cuatrimestre 2\Programacion 2\git\tp_laboratorio_2\Sanjurjo.Gabriel.Alejandro.2c.TP3\ConsoleApp\bin\Debug\ClassLibrary1.pdb
+D:\utn\Cuatrimestre 2\Programacion 2\git\tp_laboratorio_2\Sanjurjo.Gabriel.Alejandro.2c.TP3\ConsoleApp\obj\Debug\ConsoleApp.csprojAssemblyReference.cache
+D:\utn\Cuatrimestre 2\Programacion 2\git\tp_laboratorio_2\Sanjurjo.Gabriel.Alejandro.2c.TP3\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+D:\utn\Cuatrimestre 2\Programacion 2\git\tp_laboratorio_2\Sanjurjo.Gabriel.Alejandro.2c.TP3\ConsoleApp\obj\Debug\ConsoleApp.csproj.CopyComplete
+D:\utn\Cuatrimestre 2\Programacion 2\git\tp_laboratorio_2\Sanjurjo.Gabriel.Alejandro.2c.TP3\ConsoleApp\obj\Debug\ConsoleApp.exe
+D:\utn\Cuatrimestre 2\Programacion 2\git\tp_laboratorio_2\Sanjurjo.Gabriel.Alejandro.2c.TP3\ConsoleApp\obj\Debug\ConsoleApp.pdb
+D:\utn\Cuatrimestre 2\Programacion 2\git\tp_laboratorio_2\Sanjurjo.Gabriel.Alejandro.2c.TP3\ConsoleApp\bin\Debug\Archivos.dll
+D:\utn\Cuatrimestre 2\Programacion 2\git\tp_laboratorio_2\Sanjurjo.Gabriel.Alejandro.2c.TP3\ConsoleApp\bin\Debug\ClasesInstanciables.dll
+D:\utn\Cuatrimestre 2\Programacion 2\git\tp_laboratorio_2\Sanjurjo.Gabriel.Alejandro.2c.TP3\ConsoleApp\bin\Debug\Excepciones.dll
+D:\utn\Cuatrimestre 2\Programacion 2\git\tp_laboratorio_2\Sanjurjo.Gabriel.Alejandro.2c.TP3\ConsoleApp\bin\Debug\Archivos.pdb
+D:\utn\Cuatrimestre 2\Programacion 2\git\tp_laboratorio_2\Sanjurjo.Gabriel.Alejandro.2c.TP3\ConsoleApp\bin\Debug\ClasesInstanciables.pdb
+D:\utn\Cuatrimestre 2\Programacion 2\git\tp_laboratorio_2\Sanjurjo.Gabriel.Alejandro.2c.TP3\ConsoleApp\bin\Debug\Excepciones.pdb

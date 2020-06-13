@@ -1,0 +1,9 @@
+D:\utn\Cuatrimestre 2\Programacion 2\git\tp_laboratorio_2\Sanjurjo.Gabriel.Alejandro.2c.TP3\Archivos\obj\Debug\Archivos.csprojAssemblyReference.cache
+D:\utn\Cuatrimestre 2\Programacion 2\git\tp_laboratorio_2\Sanjurjo.Gabriel.Alejandro.2c.TP3\Archivos\obj\Debug\Archivos.csproj.CoreCompileInputs.cache
+D:\utn\Cuatrimestre 2\Programacion 2\git\tp_laboratorio_2\Sanjurjo.Gabriel.Alejandro.2c.TP3\Archivos\bin\Debug\Archivos.dll
+D:\utn\Cuatrimestre 2\Programacion 2\git\tp_laboratorio_2\Sanjurjo.Gabriel.Alejandro.2c.TP3\Archivos\bin\Debug\Archivos.pdb
+D:\utn\Cuatrimestre 2\Programacion 2\git\tp_laboratorio_2\Sanjurjo.Gabriel.Alejandro.2c.TP3\Archivos\bin\Debug\Excepciones.dll
+D:\utn\Cuatrimestre 2\Programacion 2\git\tp_laboratorio_2\Sanjurjo.Gabriel.Alejandro.2c.TP3\Archivos\bin\Debug\Excepciones.pdb
+D:\utn\Cuatrimestre 2\Programacion 2\git\tp_laboratorio_2\Sanjurjo.Gabriel.Alejandro.2c.TP3\Archivos\obj\Debug\Archivos.csproj.CopyComplete
+D:\utn\Cuatrimestre 2\Programacion 2\git\tp_laboratorio_2\Sanjurjo.Gabriel.Alejandro.2c.TP3\Archivos\obj\Debug\Archivos.dll
+D:\utn\Cuatrimestre 2\Programacion 2\git\tp_laboratorio_2\Sanjurjo.Gabriel.Alejandro.2c.TP3\Archivos\obj\Debug\Archivos.pdb

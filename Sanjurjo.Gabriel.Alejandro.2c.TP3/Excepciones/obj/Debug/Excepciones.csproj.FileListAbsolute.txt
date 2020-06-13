@@ -1,0 +1,6 @@
+D:\utn\Cuatrimestre 2\Programacion 2\git\tp_laboratorio_2\Sanjurjo.Gabriel.Alejandro.2c.TP3\Excepciones\bin\Debug\Excepciones.dll
+D:\utn\Cuatrimestre 2\Programacion 2\git\tp_laboratorio_2\Sanjurjo.Gabriel.Alejandro.2c.TP3\Excepciones\bin\Debug\Excepciones.pdb
+D:\utn\Cuatrimestre 2\Programacion 2\git\tp_laboratorio_2\Sanjurjo.Gabriel.Alejandro.2c.TP3\Excepciones\obj\Debug\Excepciones.csprojAssemblyReference.cache
+D:\utn\Cuatrimestre 2\Programacion 2\git\tp_laboratorio_2\Sanjurjo.Gabriel.Alejandro.2c.TP3\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+D:\utn\Cuatrimestre 2\Programacion 2\git\tp_laboratorio_2\Sanjurjo.Gabriel.Alejandro.2c.TP3\Excepciones\obj\Debug\Excepciones.dll
+D:\utn\Cuatrimestre 2\Programacion 2\git\tp_laboratorio_2\Sanjurjo.Gabriel.Alejandro.2c.TP3\Excepciones\obj\Debug\Excepciones.pdb
