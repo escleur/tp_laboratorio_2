@@ -65,6 +65,12 @@ namespace Entidades
 
                 throw new ArchivosException("Error al leer el archivo XML.", ex);
             }
+            finally
+            {
+                if (!(reader is null))
+                    reader.Close();
+            }
+
             return leyo;
         }
     }

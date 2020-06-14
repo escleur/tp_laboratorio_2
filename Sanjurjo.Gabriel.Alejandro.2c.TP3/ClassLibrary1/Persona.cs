@@ -34,6 +34,23 @@ namespace EntidadesAbstractas
         }
 
         /// <summary>
+        /// Propiedad Nacionalidad (Argentino o Extranjero)
+        ///         Argentinos entre 0 y 89999999
+        ///  Extranjero entre 90000000 y 99999999        
+        /// </summary>
+        public ENacionalidad Nacionalidad
+        {
+            get
+            {
+                return this.nacionalidad;
+            }
+            set
+            {
+                this.nacionalidad = value;
+            }
+        }
+
+        /// <summary>
         /// Propiedad DNI, Argentinos entre 0 y 89999999
         ///         Extranjero entre 90000000 y 99999999
         /// </summary>
@@ -49,23 +66,6 @@ namespace EntidadesAbstractas
             }
         }
 
-        /// <summary>
-        /// Propiedad Nacionalidad (Argentino o Extranjero)
-        ///         Argentinos entre 0 y 89999999
-        ///  Extranjero entre 90000000 y 99999999        
-        /// </summary>
-        public ENacionalidad Nacionalidad
-        {
-            get
-            {
-                return this.nacionalidad;
-            }
-            set
-            {
-                ValidarDni(value, this.dni);
-                this.nacionalidad = value;
-            }
-        }
 
         /// <summary>
         /// Propiedad Nombre

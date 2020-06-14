@@ -7,6 +7,9 @@ namespace UnitTestProject
     [TestClass]
     public class UnitTestPersona
     {
+        /// <summary>
+        /// Valida que los nombre se tomen cuando son correctos
+        /// </summary>
         [TestMethod]
         public void ValidacionNombre()
         {
@@ -18,6 +21,9 @@ namespace UnitTestProject
 
         }
 
+        /// <summary>
+        /// Valida que tome correctos los numeros de dni
+        /// </summary>
         [TestMethod]
         public void ValidacionNacionalidad()
         {
@@ -27,12 +33,20 @@ namespace UnitTestProject
             Assert.AreEqual(90020000, a1.DNI);
             Assert.AreEqual(70000000, a2.DNI);
         }
+
+        /// <summary>
+        /// Valida que se lance excepcion cuando se ingresa una nacionalidad mal
+        /// </summary>
         [ExpectedException(typeof(NacionalidadInvalidaException))]
         [TestMethod]
         public void ValidacionNacionalidadException1()
         {
             Profesor p1 = new Profesor(1, "Pedro Alvaro", "Sneider", "90020000", Persona.ENacionalidad.Argentino);
         }
+
+        /// <summary>
+        /// Valida que se lance excepcion cuando se ingresa una nacionalidad mal
+        /// </summary>
         [ExpectedException(typeof(NacionalidadInvalidaException))]
         [TestMethod]
         public void ValidacionNacionalidadException2()
@@ -40,6 +54,10 @@ namespace UnitTestProject
             Alumno a2 = new Alumno(1,"Pedro Alvaro", "Sneider", "70000000", Persona.ENacionalidad.Extranjero, Universidad.EClases.Laboratorio, Alumno.EEstadoCuenta.AlDia);
 
         }
+
+        /// <summary>
+        /// Valida que se lance excepcion cuando se ingresa un dni mal
+        /// </summary>
         [ExpectedException(typeof(DniInvalidoException))]
         [TestMethod]
         public void ValidacionDNIException1()
@@ -47,6 +65,10 @@ namespace UnitTestProject
             Alumno a = new Alumno(1, "Pedro Alvaro", "Sneider", "70000000", Persona.ENacionalidad.Argentino, Universidad.EClases.Laboratorio, Alumno.EEstadoCuenta.AlDia);
             a.DNI = -10;
         }
+
+        /// <summary>
+        /// Valida que se lance excepcion cuando se ingresa un dni mal
+        /// </summary>
         [ExpectedException(typeof(DniInvalidoException))]
         [TestMethod]
         public void ValidacionDNIException2()
@@ -55,6 +77,17 @@ namespace UnitTestProject
             a.StringToDNI = "g200";
         }
 
+        /// <summary>
+        /// Valida la inicializacion de lista sea distinto de null
+        /// </summary>
+        [TestMethod]
+        public void UniversidadInicializacion()
+        {
+            Universidad uni = new Universidad();
+            Assert.IsNotNull(uni.Instructores);
+            Assert.IsNotNull(uni.Alumnos);
+            Assert.IsNotNull(uni.Jornadas);
+        }
 
     }
 }

@@ -3,52 +3,52 @@
   <Alumnos>
     <Alumno>
       <Apellido>Lopez</Apellido>
-      <DNI>12234456</DNI>
       <Nacionalidad>Argentino</Nacionalidad>
+      <DNI>12234456</DNI>
       <Nombre>Juan</Nombre>
     </Alumno>
     <Alumno>
       <Apellido>Hernandez</Apellido>
-      <DNI>92264456</DNI>
       <Nacionalidad>Extranjero</Nacionalidad>
+      <DNI>92264456</DNI>
       <Nombre>Miguel</Nombre>
     </Alumno>
     <Alumno>
       <Apellido>Gonzalez</Apellido>
-      <DNI>12236456</DNI>
       <Nacionalidad>Argentino</Nacionalidad>
+      <DNI>12236456</DNI>
       <Nombre>Carlos</Nombre>
     </Alumno>
     <Alumno>
       <Apellido>Perez</Apellido>
-      <DNI>12234656</DNI>
       <Nacionalidad>Argentino</Nacionalidad>
+      <DNI>12234656</DNI>
       <Nombre>Juan</Nombre>
     </Alumno>
     <Alumno>
       <Apellido>Suarez</Apellido>
-      <DNI>91122456</DNI>
       <Nacionalidad>Extranjero</Nacionalidad>
+      <DNI>91122456</DNI>
       <Nombre>Joaquin</Nombre>
     </Alumno>
     <Alumno>
       <Apellido>Smith</Apellido>
-      <DNI>22236456</DNI>
       <Nacionalidad>Argentino</Nacionalidad>
+      <DNI>22236456</DNI>
       <Nombre>Rodrigo</Nombre>
     </Alumno>
   </Alumnos>
   <Instructores>
     <Profesor>
       <Apellido>Lopez</Apellido>
-      <DNI>12224458</DNI>
       <Nacionalidad>Argentino</Nacionalidad>
+      <DNI>12224458</DNI>
       <Nombre>Juan</Nombre>
     </Profesor>
     <Profesor>
       <Apellido>Juarez</Apellido>
-      <DNI>32234456</DNI>
       <Nacionalidad>Argentino</Nacionalidad>
+      <DNI>32234456</DNI>
       <Nombre>Roberto</Nombre>
     </Profesor>
   </Instructores>
@@ -57,55 +57,62 @@
       <Alumnos>
         <Alumno>
           <Apellido>Lopez</Apellido>
-          <DNI>12234456</DNI>
           <Nacionalidad>Argentino</Nacionalidad>
+          <DNI>12234456</DNI>
           <Nombre>Juan</Nombre>
         </Alumno>
         <Alumno>
           <Apellido>Gonzalez</Apellido>
-          <DNI>12236456</DNI>
           <Nacionalidad>Argentino</Nacionalidad>
+          <DNI>12236456</DNI>
           <Nombre>Carlos</Nombre>
         </Alumno>
       </Alumnos>
       <Clase>Programacion</Clase>
       <Instructor>
         <Apellido>Lopez</Apellido>
-        <DNI>12224458</DNI>
         <Nacionalidad>Argentino</Nacionalidad>
+        <DNI>12224458</DNI>
         <Nombre>Juan</Nombre>
       </Instructor>
     </Jornada>
     <Jornada>
       <Alumnos>
         <Alumno>
-          <Apellido>Hernandez</Apellido>
-          <DNI>92264456</DNI>
+          <Apellido>Suarez</Apellido>
           <Nacionalidad>Extranjero</Nacionalidad>
+          <DNI>91122456</DNI>
+          <Nombre>Joaquin</Nombre>
+        </Alumno>
+      </Alumnos>
+      <Clase>Laboratorio</Clase>
+      <Instructor>
+        <Apellido>Juarez</Apellido>
+        <Nacionalidad>Argentino</Nacionalidad>
+        <DNI>32234456</DNI>
+        <Nombre>Roberto</Nombre>
+      </Instructor>
+    </Jornada>
+    <Jornada>
+      <Alumnos>
+        <Alumno>
+          <Apellido>Hernandez</Apellido>
+          <Nacionalidad>Extranjero</Nacionalidad>
+          <DNI>92264456</DNI>
           <Nombre>Miguel</Nombre>
         </Alumno>
         <Alumno>
           <Apellido>Smith</Apellido>
-          <DNI>22236456</DNI>
           <Nacionalidad>Argentino</Nacionalidad>
+          <DNI>22236456</DNI>
           <Nombre>Rodrigo</Nombre>
         </Alumno>
       </Alumnos>
       <Clase>Legislacion</Clase>
       <Instructor>
         <Apellido>Juarez</Apellido>
-        <DNI>32234456</DNI>
         <Nacionalidad>Argentino</Nacionalidad>
-        <Nombre>Roberto</Nombre>
-      </Instructor>
-    </Jornada>
-    <Jornada>
-      <Alumnos />
-      <Clase>SPD</Clase>
-      <Instructor>
-        <Apellido>Juarez</Apellido>
         <DNI>32234456</DNI>
-        <Nacionalidad>Argentino</Nacionalidad>
         <Nombre>Roberto</Nombre>
       </Instructor>
     </Jornada>
