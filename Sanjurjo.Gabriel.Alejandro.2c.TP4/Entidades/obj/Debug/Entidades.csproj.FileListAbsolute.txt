@@ -1,0 +1,6 @@
+D:\utn\Cuatrimestre 2\Programacion 2\git\tp_laboratorio_2\Sanjurjo.Gabriel.Alejandro.2c.TP4\Entidades\bin\Debug\Entidades.dll
+D:\utn\Cuatrimestre 2\Programacion 2\git\tp_laboratorio_2\Sanjurjo.Gabriel.Alejandro.2c.TP4\Entidades\bin\Debug\Entidades.pdb
+D:\utn\Cuatrimestre 2\Programacion 2\git\tp_laboratorio_2\Sanjurjo.Gabriel.Alejandro.2c.TP4\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+D:\utn\Cuatrimestre 2\Programacion 2\git\tp_laboratorio_2\Sanjurjo.Gabriel.Alejandro.2c.TP4\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\utn\Cuatrimestre 2\Programacion 2\git\tp_laboratorio_2\Sanjurjo.Gabriel.Alejandro.2c.TP4\Entidades\obj\Debug\Entidades.dll
+D:\utn\Cuatrimestre 2\Programacion 2\git\tp_laboratorio_2\Sanjurjo.Gabriel.Alejandro.2c.TP4\Entidades\obj\Debug\Entidades.pdb

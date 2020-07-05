@@ -1,0 +1,13 @@
+D:\utn\Cuatrimestre 2\Programacion 2\git\tp_laboratorio_2\Sanjurjo.Gabriel.Alejandro.2c.TP4\CorreoAplicacion\bin\Debug\CorreoAplicacion.exe.config
+D:\utn\Cuatrimestre 2\Programacion 2\git\tp_laboratorio_2\Sanjurjo.Gabriel.Alejandro.2c.TP4\CorreoAplicacion\bin\Debug\CorreoAplicacion.exe
+D:\utn\Cuatrimestre 2\Programacion 2\git\tp_laboratorio_2\Sanjurjo.Gabriel.Alejandro.2c.TP4\CorreoAplicacion\bin\Debug\CorreoAplicacion.pdb
+D:\utn\Cuatrimestre 2\Programacion 2\git\tp_laboratorio_2\Sanjurjo.Gabriel.Alejandro.2c.TP4\CorreoAplicacion\bin\Debug\Entidades.dll
+D:\utn\Cuatrimestre 2\Programacion 2\git\tp_laboratorio_2\Sanjurjo.Gabriel.Alejandro.2c.TP4\CorreoAplicacion\bin\Debug\Entidades.pdb
+D:\utn\Cuatrimestre 2\Programacion 2\git\tp_laboratorio_2\Sanjurjo.Gabriel.Alejandro.2c.TP4\CorreoAplicacion\obj\Debug\MainCorreo.csprojAssemblyReference.cache
+D:\utn\Cuatrimestre 2\Programacion 2\git\tp_laboratorio_2\Sanjurjo.Gabriel.Alejandro.2c.TP4\CorreoAplicacion\obj\Debug\CorreoAplicacion.FrmPpal.resources
+D:\utn\Cuatrimestre 2\Programacion 2\git\tp_laboratorio_2\Sanjurjo.Gabriel.Alejandro.2c.TP4\CorreoAplicacion\obj\Debug\CorreoAplicacion.Properties.Resources.resources
+D:\utn\Cuatrimestre 2\Programacion 2\git\tp_laboratorio_2\Sanjurjo.Gabriel.Alejandro.2c.TP4\CorreoAplicacion\obj\Debug\MainCorreo.csproj.GenerateResource.cache
+D:\utn\Cuatrimestre 2\Programacion 2\git\tp_laboratorio_2\Sanjurjo.Gabriel.Alejandro.2c.TP4\CorreoAplicacion\obj\Debug\MainCorreo.csproj.CoreCompileInputs.cache
+D:\utn\Cuatrimestre 2\Programacion 2\git\tp_laboratorio_2\Sanjurjo.Gabriel.Alejandro.2c.TP4\CorreoAplicacion\obj\Debug\MainCorreo.csproj.CopyComplete
+D:\utn\Cuatrimestre 2\Programacion 2\git\tp_laboratorio_2\Sanjurjo.Gabriel.Alejandro.2c.TP4\CorreoAplicacion\obj\Debug\CorreoAplicacion.exe
+D:\utn\Cuatrimestre 2\Programacion 2\git\tp_laboratorio_2\Sanjurjo.Gabriel.Alejandro.2c.TP4\CorreoAplicacion\obj\Debug\CorreoAplicacion.pdb

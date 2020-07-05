@@ -1,0 +1,17 @@
+D:\utn\Cuatrimestre 2\Programacion 2\git\tp_laboratorio_2\Sanjurjo.Gabriel.Alejandro.2c.TP4\UnitTestCorreo\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\utn\Cuatrimestre 2\Programacion 2\git\tp_laboratorio_2\Sanjurjo.Gabriel.Alejandro.2c.TP4\UnitTestCorreo\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\utn\Cuatrimestre 2\Programacion 2\git\tp_laboratorio_2\Sanjurjo.Gabriel.Alejandro.2c.TP4\UnitTestCorreo\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\utn\Cuatrimestre 2\Programacion 2\git\tp_laboratorio_2\Sanjurjo.Gabriel.Alejandro.2c.TP4\UnitTestCorreo\bin\Debug\netcoreapp2.1\UnitTestCorreo.deps.json
+D:\utn\Cuatrimestre 2\Programacion 2\git\tp_laboratorio_2\Sanjurjo.Gabriel.Alejandro.2c.TP4\UnitTestCorreo\bin\Debug\netcoreapp2.1\UnitTestCorreo.runtimeconfig.json
+D:\utn\Cuatrimestre 2\Programacion 2\git\tp_laboratorio_2\Sanjurjo.Gabriel.Alejandro.2c.TP4\UnitTestCorreo\bin\Debug\netcoreapp2.1\UnitTestCorreo.runtimeconfig.dev.json
+D:\utn\Cuatrimestre 2\Programacion 2\git\tp_laboratorio_2\Sanjurjo.Gabriel.Alejandro.2c.TP4\UnitTestCorreo\bin\Debug\netcoreapp2.1\UnitTestCorreo.dll
+D:\utn\Cuatrimestre 2\Programacion 2\git\tp_laboratorio_2\Sanjurjo.Gabriel.Alejandro.2c.TP4\UnitTestCorreo\bin\Debug\netcoreapp2.1\UnitTestCorreo.pdb
+D:\utn\Cuatrimestre 2\Programacion 2\git\tp_laboratorio_2\Sanjurjo.Gabriel.Alejandro.2c.TP4\UnitTestCorreo\bin\Debug\netcoreapp2.1\Entidades.dll
+D:\utn\Cuatrimestre 2\Programacion 2\git\tp_laboratorio_2\Sanjurjo.Gabriel.Alejandro.2c.TP4\UnitTestCorreo\bin\Debug\netcoreapp2.1\Entidades.pdb
+D:\utn\Cuatrimestre 2\Programacion 2\git\tp_laboratorio_2\Sanjurjo.Gabriel.Alejandro.2c.TP4\UnitTestCorreo\obj\Debug\netcoreapp2.1\UnitTestCorreo.csprojAssemblyReference.cache
+D:\utn\Cuatrimestre 2\Programacion 2\git\tp_laboratorio_2\Sanjurjo.Gabriel.Alejandro.2c.TP4\UnitTestCorreo\obj\Debug\netcoreapp2.1\UnitTestCorreo.csproj.CoreCompileInputs.cache
+D:\utn\Cuatrimestre 2\Programacion 2\git\tp_laboratorio_2\Sanjurjo.Gabriel.Alejandro.2c.TP4\UnitTestCorreo\obj\Debug\netcoreapp2.1\UnitTestCorreo.AssemblyInfoInputs.cache
+D:\utn\Cuatrimestre 2\Programacion 2\git\tp_laboratorio_2\Sanjurjo.Gabriel.Alejandro.2c.TP4\UnitTestCorreo\obj\Debug\netcoreapp2.1\UnitTestCorreo.AssemblyInfo.cs
+D:\utn\Cuatrimestre 2\Programacion 2\git\tp_laboratorio_2\Sanjurjo.Gabriel.Alejandro.2c.TP4\UnitTestCorreo\obj\Debug\netcoreapp2.1\UnitTestCorreo.csproj.CopyComplete
+D:\utn\Cuatrimestre 2\Programacion 2\git\tp_laboratorio_2\Sanjurjo.Gabriel.Alejandro.2c.TP4\UnitTestCorreo\obj\Debug\netcoreapp2.1\UnitTestCorreo.dll
+D:\utn\Cuatrimestre 2\Programacion 2\git\tp_laboratorio_2\Sanjurjo.Gabriel.Alejandro.2c.TP4\UnitTestCorreo\obj\Debug\netcoreapp2.1\UnitTestCorreo.pdb
